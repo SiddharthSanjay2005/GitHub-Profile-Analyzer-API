@@ -449,7 +449,7 @@ curl http://localhost:5000/api/debug/search?q=octo
 
 The Postman collection JSON file is available in this repository:
 
-📁 **File:** `GitHub-Profile-Analyzer.postman_collection.json`
+📁 **File:** `GitHub-Profile-Analyzer API.postman_collection.json`
 
 **How to import:**
 1. Open Postman
@@ -461,7 +461,7 @@ The Postman collection JSON file is available in this repository:
 **OR**
 
 **Copy the raw JSON:**
-1. Go to the file in GitHub: `https://github.com/SiddharthSanjay2005/github-profile-analyzer/blob/main/GitHub-Profile-Analyzer.postman_collection.json`
+1. Go to the file in GitHub: `https://github.com/SiddharthSanjay2005/github-profile-analyzer/blob/main/GitHub-Profile-Analyzer.API.postman_collection.json`
 2. Click **"Raw"**
 3. Copy all the JSON
 4. In Postman, click **"Import"** → **"Raw text"**
@@ -589,14 +589,14 @@ When you test `GET /api/analyze/octocat`, you should see:
 
 ### Postman Collection File
 
-The collection is exported as `GitHub-Profile-Analyzer.postman_collection.json` and includes:
+The collection is exported as `GitHub-Profile-Analyzer-API.postman_collection.json` and includes:
 - All 8 API endpoints
 - Environment variables for baseUrl and username
 - Sample requests with pre-filled data
 - No authentication required (public API)
 
 **How to Access the Collection:**
-1. View the file in GitHub: `https://github.com/SiddharthSanjay2005/github-profile-analyzer/blob/main/GitHub-Profile-Analyzer.postman_collection.json`
+1. View the file in GitHub: `https://github.com/SiddharthSanjay2005/github-profile-analyzer/blob/main/GitHub-Profile-Analyzer-API.postman_collection.json`
 2. Or download the file from the repository
 3. Import into Postman
 
